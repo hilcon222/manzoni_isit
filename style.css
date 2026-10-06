@@ -1,0 +1,11 @@
+main {
+    font-family: sans-serif;
+}
+header {
+    text-align: center;
+    border: 10px solid navy;
+}
+
+body {
+    background-color: burlywood;
+}
